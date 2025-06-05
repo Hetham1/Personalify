@@ -1,0 +1,4 @@
+spotipy>=2.23.0
+python-dotenv
+Flask
+gunicorn 
